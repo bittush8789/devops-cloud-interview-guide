@@ -22,8 +22,8 @@ git merge -s ours feature-branch
 🧠 **Important:** This does *not* mean it merges and keeps both sets of changes. It **pretends to merge** but **keeps only your current branch's content**, marking the merge as done.
 
 📌 **Use cases:**
-- When rolling back a hotfix and keeping current stable state
-- When merging a long-dead branch just to close it but keep your branch's state intact
+- When rolling back a hotfix and keeping current stable state.
+- When merging a long-dead branch just to close it but keep your branch's state intact.
 
 ---
 
