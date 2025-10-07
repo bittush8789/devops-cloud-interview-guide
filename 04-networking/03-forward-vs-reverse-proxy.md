@@ -2,7 +2,7 @@
 Explain the difference between a Forward Proxy and a Reverse Proxy.
 
 ### 📝 Short Explanation  
-Both proxies act as intermediaries in network communication, but they sit at **different ends of the request flow** and serve **different purposes**.
+Both proxies act as intermediaries in network communication, but they sit at **different ends of the request flow** and serve *different purposes*.
 
 ## ✅ Answer  
 
