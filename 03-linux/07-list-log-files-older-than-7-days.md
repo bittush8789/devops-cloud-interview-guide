@@ -20,7 +20,7 @@ find /var/log -type f -mtime +7
 - `-type f`: Limits the search to files (not directories).
 - `-mtime +7`: Filters files **modified more than 7 days ago**.
   - `+7` means strictly older than 7 days.
-  - `-7` would mean newer than 7 days.
+  - `-7` would mean newer than 7 days..
 
 ---
 
