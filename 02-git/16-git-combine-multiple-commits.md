@@ -18,7 +18,7 @@ ghi789 Update error message
 jkl012 Initial work on login form  
 ```
 
-Before pushing or raising a PR, I might want to **combine them into a single commit** that says something like:  
+Before pushing or raising a PR, I might want to **combine them into a single commit** that says something like.
 `Add login form with validation and error handling`
 
 #### ✅ Here’s how I do it:
