@@ -1,7 +1,7 @@
 ## Question  
 When using `curl`, the request works with an IP address but fails when using the domain name.
 
-**Task:**  
+**Task**  
 Explain why this might happen and how you would troubleshoot it.
 
 ### 📝 Short Explanation  
