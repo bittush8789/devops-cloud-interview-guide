@@ -35,7 +35,7 @@ If `curl http://<IP>` works but `curl http://example.com` fails, the issue is mo
 ---
 
 3. **Firewall or Network Blocking DNS**
-   - Port **53** (used for DNS) might be blocked.
+   - Port **53** (used for DNS) might be blocked..
    - Test with:
      ```bash
      dig example.com @8.8.8.8
