@@ -26,7 +26,7 @@ chmod 400 new-key.pem
 
 ---
 
-#### Step 2: Stop the affected instance  
+### Step 2: Stop the affected instance  
 In the AWS Console or CLI:
 ```bash
 aws ec2 stop-instances --instance-ids i-xxxxxxxxxxxxxxx
