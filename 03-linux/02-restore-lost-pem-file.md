@@ -2,7 +2,7 @@
 Can you restore a lost PEM file? If not, how can you still access the EC2 instance?
 
 ### 📝 Short Explanation  
-This question evaluates your knowledge of secure SSH access, key-based authentication, and how to regain access to EC2 instances when your only login method (PEM file) is lost.
+This question evaluates your knowledge of secure SSH access, key-based authentication, and how to regain access to EC2 instances when your only login method (PEM file) is lost..
 
 ## ✅ Answer  
 No, you **cannot restore** a lost PEM file — it’s not stored on AWS or recoverable.  
