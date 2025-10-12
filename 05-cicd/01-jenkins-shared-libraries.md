@@ -10,7 +10,7 @@ Jenkins Shared Libraries allow you to **centralize reusable pipeline code** (lik
 
 ### 📘 What is a Jenkins Shared Library?
 
-A **Shared Library** is a Git repository (or part of one) that contains reusable Groovy code you can include in Jenkins pipelines using the `@Library` annotation.
+A **Shared Library** is a Git repository (or part of one) that contains reusable Groovy code you can include in Jenkins pipelines using the `@Library` annotation..
 
 It typically includes:
 ```
