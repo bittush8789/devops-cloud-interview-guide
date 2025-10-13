@@ -8,7 +8,7 @@ This question checks if you understand how a network request travels across laye
 
 The **OSI Model** has **7 layers**, and each layer plays a specific role in transferring data from a client (like a browser) to a server (like a web server).  
 
-Here’s how it works when you type a URL like `https://example.com` and hit Enter:
+Here’s how it works when you type a URL like `https://example.com` and hit Enter.
 
 ---
 
