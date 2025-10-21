@@ -1,7 +1,7 @@
 ## Question  
 Application deployed on NGINX returns "Connection Refused". How will you fix it?
 
-### 📝 Short Explanation  
+# 📝 Short Explanation  
 This question evaluates your ability to troubleshoot reverse proxy setups and network-level issues. “Connection Refused” often means the NGINX server or upstream service isn’t reachable at all.
 
 ## ✅ Answer  
