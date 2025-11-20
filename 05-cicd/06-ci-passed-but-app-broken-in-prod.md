@@ -1,7 +1,7 @@
 ## Question  
 CI Pipeline Succeeds but App is Broken in Prod — What Action Will You Take?
 
-### 📝 Short Explanation  
+## 📝 Short Explanation  
 If the CI/CD pipeline passes but the application breaks in production, it suggests that something is **missing in the validation phase**, or there are **environment mismatches** between staging/CI and production.
 
 ## ✅ Answer  
