@@ -12,13 +12,13 @@ When a build fails to fetch a dependency from an artifact repo (e.g., Artifactor
 
 ### 🧭 Step-by-Step Troubleshooting
 
-#### 1. 🔍 **Check the Build Error Message**
+## 1. 🔍 **Check the Build Error Message**
 - Identify the exact dependency and which repo URL it tried to hit.
 - Note if it’s a `401 Unauthorized`, `403 Forbidden`, `404 Not Found`, or a timeout.
 
 ---
 
-#### 2. 🗂️ **Verify Repository Configuration**
+## 2. 🗂️ **Verify Repository Configuration**
 - Check your `pom.xml`, `build.gradle`, or `.npmrc` to ensure the **repository URL is correct**.
 
 ✅ For Maven:
