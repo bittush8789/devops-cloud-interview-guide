@@ -1,6 +1,6 @@
 ## Difference Between `for_each` and `for` in Terraform
 
-### Question  
+## Question  
 What is the difference between `for_each` and `for` in Terraform?
 
 ### Short explanation of the question  
