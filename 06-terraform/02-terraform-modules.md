@@ -10,7 +10,7 @@ Modules are the core unit of code organization in Terraform. This question tests
 Terraform modules are **self-contained packages of Terraform configuration** that can be reused across different projects or components.  
 We use them to **avoid repetition**, **enforce consistency**, and **organize infrastructure** into logical components.
 
-### Detailed explanation of the answer for readers’ understanding  
+## Detailed explanation of the answer for readers’ understanding  
 
 A **Terraform module** is just a folder with `.tf` files. The folder can be local, on GitHub, or even on the Terraform Registry.
 
