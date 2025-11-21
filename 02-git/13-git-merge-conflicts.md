@@ -7,7 +7,7 @@ Merge conflicts are a common part of collaborative Git workflows. This question 
 ## ✅ Answer  
 When I encounter a merge conflict, I pause to understand which files are affected, examine the conflicting changes, and manually resolve them using a visual diff tool or editor. Once resolved, I mark the conflicts as resolved, stage the changes, and complete the merge or rebase.
 
-### 📘 Detailed Explanation  
+## 📘 Detailed Explanation  
 Merge conflicts usually happen when:
 - Two branches modify the same lines in a file
 - One branch deletes a file the other modifies
